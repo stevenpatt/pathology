@@ -1,16 +1,16 @@
-# pathology
+# Pathology App
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Application built by Steven Patterson for the Aperio Imaging Laboratory in the IU School of Medicine for Pathology image viewing. 
+
 
 ## Prerequisites
 
-You will need the following things properly installed on your computer.
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with NPM)
 * [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+
+
 
 ## Installation
 
@@ -37,14 +37,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
+### Android
 
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+* Deploy available for Android platform using the Ember-Cordova module.
