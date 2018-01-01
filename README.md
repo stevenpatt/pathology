@@ -14,7 +14,7 @@ Application built by Steven Patterson for the Aperio Imaging Laboratory in the I
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/stevenpatt/pathology this repository
 * `cd pathology`
 * `npm install`
 
