@@ -1,4 +1,4 @@
-# Pathology App
+# Pathology Mobile App
 
 Application built by Steven Patterson for the Aperio Imaging Laboratory in the IU School of Medicine for Pathology image viewing. 
 
